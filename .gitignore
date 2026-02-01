@@ -1,0 +1,41 @@
+# Data files
+data/
+*.pkl
+
+# Model files
+models/
+*.h5
+*.hdf5
+*.ckpt
+
+# History files
+history/
+
+# Figures (optional - uncomment if you want to exclude)
+# figures/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
